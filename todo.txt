@@ -1,0 +1,3 @@
+test something:false
+welcome to rust:true
+hello:true
